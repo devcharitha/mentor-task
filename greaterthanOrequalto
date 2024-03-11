@@ -1,0 +1,4 @@
+const numOne = 3;
+const numTwo = 2;
+const numThree = 2;
+console.log(numOne >= numTwo, numTwo >= numThree);
